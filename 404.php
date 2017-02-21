@@ -15,7 +15,7 @@ get_header(); ?>
 			<header>
 				<h1 class="entry-title"><?php _e( 'File Not Found', 'foundationpress' ); ?></h1>
 			</header>
-			<div class="entry-content">
+			<div class="entry-content mike">
 				<div class="error">
 					<p class="bottom"><?php _e( 'The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.', 'foundationpress' ); ?></p>
 				</div>
